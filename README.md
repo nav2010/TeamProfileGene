@@ -18,10 +18,13 @@ The user should clone the repository from GitHub and download Node. This applica
 - HTML
 - CSS
 
-## Pic Deployment
+## Screenshot
+This is a screenshot of the generated HTML webpage.
 ![My Image](/assets/team.png)
 
+## Video
+[![Watch the video]](/assets/Untitled_%20Mar%207%2C%202023%2010_44%20PM.webm)
+[![Watch the video]](/assets/Untitled_%20Mar%207%2C%202023%2010_45%20PM.webm)
 
-```
 
  
