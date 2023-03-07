@@ -9,9 +9,9 @@ As a manager a user want to generate a webpage that displays my team's basic inf
 ## Installation
 
 
-```
+
 The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. If testing is required, this application uses Jest.
-```
+
 ## Technologies
 - Node.js
 - Npm packages ( Jest and Inquirer)
