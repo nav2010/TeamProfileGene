@@ -24,7 +24,8 @@ This is a screenshot of the generated HTML webpage.
 
 ## Video
 ![Watch the video](/assets/final%C3%B9.gif)
-[![Watch the video]](/assets/Untitled_%20Mar%207%2C%202023%2010_45%20PM.webm)
+![Watch the video](/assets/final.gif)
+
 
 
  
