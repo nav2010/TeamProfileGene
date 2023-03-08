@@ -23,7 +23,7 @@ This is a screenshot of the generated HTML webpage.
 ![My Image](/assets/team.png)
 
 ## Video
-![Watch the video](/assets/final%C3%B9.gif)
+![Watch the video](/assets/ezgif.com-optimize.gif)
 ![Watch the video](/assets/final.gif)
 
 
